@@ -21,7 +21,7 @@ const mail=async (email,name)=>{
         subject: "Congratulations! You're Successfully Registered",  
         html: `<p>Hello <b>${name}</b>,</p>
 
-        <p>We are pleased to inform you that your registration for the <b>HEXCODE</b> recruitment drive, specially for the design team at <b>Team Conatus</b>, has been successfully received. We greatly appreciate your keen interest.</p>
+        <p>We are pleased to inform you that your registration for the <b>ELEGANZA</b> recruitment drive, specially for the design team at <b>Team Conatus</b>, has been successfully received. We greatly appreciate your keen interest.</p>
     
         <p>Stay Tuned for important updates and announcements on our Instagram page:<a href="https://www.instagram.com/conatus.akg/">https://www.instagram.com/conatus.akg/</a></p>
     
